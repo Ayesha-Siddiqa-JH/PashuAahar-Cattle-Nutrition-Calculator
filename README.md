@@ -138,7 +138,7 @@ The application generates balanced feed recommendations based on cattle breed, a
 # 📱 Output Screenshots
 
 ## 🔐 Login Screen
-![Login Screen](screenshots/login_screen.jpeg)
+![Login Screen](login_screen.jpeg)
 
 ## 📝 Registration Screen
 ![Register Screen](screenshots/register_screen.jpeg)
