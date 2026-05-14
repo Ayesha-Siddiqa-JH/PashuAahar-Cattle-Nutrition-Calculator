@@ -141,25 +141,25 @@ The application generates balanced feed recommendations based on cattle breed, a
 ![Login Screen](login_screen.jpeg)
 
 ## 📝 Registration Screen
-![Register Screen](screenshots/register_screen.jpeg)
+![Register Screen](register_screen.jpeg)
 
 ## 🐄 Cow Profile Screen
-![Cow Profile](screenshots/cow_profile_screen.jpeg)
+![Cow Profile](cow_profile_screen.jpeg)
 
 ## 🎯 Yield Target Screen
-![Yield Target](screenshots/yield_target_screen.jpeg)
+![Yield Target](yield_target_screen.jpeg)
 
 ## 🧪 Nutrition Matrix
-![Nutrition Matrix](screenshots/nutrition_matrix_screen.jpeg)
+![Nutrition Matrix](nutrition_matrix_screen.jpeg)
 
 ## 💰 Savings Result
-![Savings Result](screenshots/savings_result_screen.jpeg)
+![Savings Result](savings_result_screen.jpeg)
 
 ## 📈 History Screen
-![History Screen](screenshots/history_screen.jpeg)
+![History Screen](history_screen.jpeg)
 
 ## 🤖 AI Advisor
-![AI Advisor](screenshots/ai_advisor_screen.jpeg)
+![AI Advisor](ai_advisor_screen.jpeg)
 
 # 🚀 Installation
 
